@@ -15,16 +15,7 @@ public static void main(String[] args)
 			
 		}		
 	    System.out.println(output);
-	    if(s1.equalsIgnoreCase(output)==true)
-    	{
-    	    System.out.println("Entered string is palindrome");
-    	
-    	}
-    else
-    	
-    	System.out.println("Entered string is not palindrome");
-    	
-    
+
 	}
 
 }
